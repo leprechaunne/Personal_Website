@@ -10146,7 +10146,7 @@ h3 {
   width: 15rem;
 }
 .masthead-avatar{
-
+  animation: rotation 4s infinite linear;
 }
 
 @media (min-width: 992px) {
@@ -10261,4 +10261,13 @@ form .row:first-child .floating-label-form-group {
 
 .copyright {
   background-color: #1a252f;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(359deg);
+  }
+  to {
+    transform: rotate(0deg);
+  }
 }
