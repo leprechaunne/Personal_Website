@@ -10271,3 +10271,9 @@ form .row:first-child .floating-label-form-group {
     transform: rotate(0deg);
   }
 }
+
+#activity-chart {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
