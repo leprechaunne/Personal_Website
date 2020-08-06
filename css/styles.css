@@ -10277,3 +10277,7 @@ form .row:first-child .floating-label-form-group {
   margin: 0 auto;
   max-width: 100%;
 }
+
+.image-center {
+  margin: 0 auto !important;
+}
