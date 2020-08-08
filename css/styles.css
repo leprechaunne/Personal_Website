@@ -10145,9 +10145,6 @@ h3 {
 .masthead .masthead-avatar {
   width: 15rem;
 }
-.masthead-avatar{
-  animation: rotation 4s infinite linear;
-}
 
 @media (min-width: 992px) {
   .masthead {
@@ -10263,15 +10260,6 @@ form .row:first-child .floating-label-form-group {
   background-color: #1a252f;
 }
 
-@keyframes rotation {
-  from {
-    transform: rotate(359deg);
-  }
-  to {
-    transform: rotate(0deg);
-  }
-}
-
 #activity-chart {
   display: block;
   margin: 0 auto;
@@ -10280,4 +10268,13 @@ form .row:first-child .floating-label-form-group {
 
 .image-center {
   margin: 0 auto !important;
+}
+
+.force-float-right {
+  margin: 0 ;
+}
+
+.masthead-avatar { 
+  border-radius: 50%;
+  border: 5px solid white;
 }
