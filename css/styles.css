@@ -10291,3 +10291,13 @@ form .row:first-child .floating-label-form-group {
   z-index: 1000;
 
 }
+
+.carousel-item>img {
+  height: 540px !important;
+}
+
+h3.about-section-heading {
+  color: var(--secondary) !important;
+  text-align: center;
+  border-bottom: solid 2px var(--secondary);
+}
