@@ -10293,11 +10293,19 @@ form .row:first-child .floating-label-form-group {
 }
 
 .carousel-item>img {
-  height: 600px !important;
+  height: 800px !important;
 }
 
 h3.about-section-heading {
   color: var(--secondary) !important;
   text-align: center;
   border-bottom: solid 2px var(--secondary);
+}
+
+p.img-caption {
+  font-style: italic;
+}
+
+.wide {
+  width: 100%;
 }
