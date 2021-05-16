@@ -10275,7 +10275,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .masthead-avatar { 
-  border-radius: 50%;
+  border-radius: 25px;
   border: 5px solid white;
 }
 
@@ -10308,4 +10308,22 @@ p.img-caption {
 
 .wide {
   width: 100%;
+}
+
+.footer:active ~ #contact { /*when the anchor is active (clicked)*/
+   -moz-animation: myanimation 1s;
+   -webkit-animation: myanimation 1s;
+   -o-animation: myanimation 1s;
+   animation: myanimation 1s;
+}
+@-moz-keyframes myanimation, @-webkit-keyframes myanimation, @-o-keyframes myanimation, @keyframes myanimation {
+   from { background: var(--secondary); }
+   to { background: white; /*or whatever it was originally*/ }
+}
+
+.modal-min-holder {
+  width: 332px;
+  height: 240px;
+  background-color: var(--secondary);
+  
 }
