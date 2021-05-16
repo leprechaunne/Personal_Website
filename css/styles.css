@@ -10325,5 +10325,13 @@ p.img-caption {
   width: 332px;
   height: 240px;
   background-color: var(--secondary);
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
   
+}
+
+div.divider-custom.divider-small {
+  margin: 0 0 0 0 !important;
 }
