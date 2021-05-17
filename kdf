@@ -1,0 +1,125 @@
+[33mcommit a759148dfaae767a4b19fd7ec9aa7114470cf5fd[m[33m ([m[1;36mHEAD -> [m[1;32mfeat-add/modal-redecoration[m[33m, [m[1;31mWebsite/feat-add/modal-redecoration[m[33m)[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Sun May 16 17:00:04 2021 -0400
+
+    made the 3d tab a better sell
+
+[33mcommit f9a058ad958ae78978a103c4870180ef612d971f[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Sun May 16 16:57:58 2021 -0400
+
+    fixed first modal
+
+[33mcommit 5465c989222bfe345491223f6d3cabe99c2eecd1[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Sun May 16 16:30:13 2021 -0400
+
+    creating new branch
+
+[33mcommit fb672a88ee45bd66bd8777ac3761226142e57bfd[m[33m ([m[1;32mmaster[m[33m)[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Tue Aug 25 12:30:32 2020 -0400
+
+    finished(?) the website??
+
+[33mcommit 3c06a9353755d8f2d9f462a04b39c281a63affc6[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Sun Aug 23 17:01:59 2020 -0400
+
+    some minor aesthetic changes
+
+[33mcommit 3a757e22e74f7bfd0b31d963451aaf09517bd0a8[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Wed Aug 19 16:54:05 2020 -0400
+
+    added half of my portfolio along with updated (rights unrestricted) clipart
+
+[33mcommit f69c5fcb45064562cf73df9f8c0fd4bf48443b1e[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Sun Aug 9 13:46:50 2020 -0400
+
+    made a default in case scripts dont load
+
+[33mcommit 451eba1dfa3fcf7433ecd599e0ea9c753f748ec8[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Sun Aug 9 13:18:24 2020 -0400
+
+    Wrote some JS to calculate my age and update it in the about me because I will definitely forget to do that
+
+[33mcommit 9d2a2e168f7845820086b291200a3c87f618c5d9[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Sat Aug 8 19:03:27 2020 -0400
+
+    fixed the masthead, reordered the page sections, and abstracted some of the template code
+
+[33mcommit fc7ed1ed19a4aac2c062b22a469224a914b76c63[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Sat Aug 8 16:46:44 2020 -0400
+
+    Got rid of the godawful snake SVG
+
+[33mcommit dbbf456be6da9a3e75d554c3c2f3e3d0ab4b795e[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Thu Aug 6 17:31:57 2020 -0400
+
+    formatting changes, adjusted footer, started changing contact me to about me
+
+[33mcommit f4faef0a55c3c9796ce7481c7c3851356819997c[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Thu Aug 6 15:39:25 2020 -0400
+
+    trying a new centering pt2
+
+[33mcommit 8e79ac6b181c03bbf2d59d4f7bed731737d27f69[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Thu Aug 6 15:32:16 2020 -0400
+
+    trying a new centering
+
+[33mcommit 31c3255b525e5e60cd26c77b73553dfed939f21d[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Thu Aug 6 15:29:07 2020 -0400
+
+    last commit didn't have the styles.css updated
+
+[33mcommit a7a9a4956ec776e561712e753d04819271b5b7ea[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Thu Aug 6 12:59:39 2020 -0400
+
+    live site has formatting error, testing fix
+
+[33mcommit 8c09535d9d7533077c04d963847474545ddcd07b[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Thu Aug 6 10:29:58 2020 -0400
+
+    Fixed navbar and added some flavortext
+
+[33mcommit 620e6ccc9963975afbb993d11195730d347413cb[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Thu Aug 6 10:11:46 2020 -0400
+
+    Added git activity, reordered pages
+
+[33mcommit 96cad9d01a786d208692150defb2fefb08dd4d91[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Tue Aug 4 20:22:18 2020 -0400
+
+    minor masthead progress, uploading for the night
+
+[33mcommit 49db1e3b6c887b9b030cf8453d56d8c39019a787[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Tue Aug 4 18:15:09 2020 -0400
+
+    About to play with masthead org, pushing to backup
+
+[33mcommit 9cad99372e962d3b9bd9a3b42b0a183f938941b9[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Mon Aug 3 19:36:35 2020 -0400
+
+    testing the update of some minor details
+
+[33mcommit d2ff5a51ab6e5b1bd3908f46913ffd03c4913017[m
+Author: Noah Everly <williamneverly@gmail.com>
+Date:   Mon Aug 3 19:09:48 2020 -0400
+
+    Testing push
