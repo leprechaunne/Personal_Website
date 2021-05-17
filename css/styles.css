@@ -10173,13 +10173,21 @@ h3 {
   left: 0;
   transition: all 0.2s ease-in-out;
   opacity: 0;
+  color: transparent;
   background-color: rgba(26, 188, 156, 0.9);
 }
-.portfolio .portfolio-item .portfolio-item-caption:hover {
+.portfolio:hover .portfolio-item:hover .portfolio-item-caption {
   opacity: 1;
 }
 .portfolio .portfolio-item .portfolio-item-caption .portfolio-item-caption-content {
   font-size: 1.5rem;
+}
+
+.portfolio-item:hover .modal-min-holder {
+  transition: all 0.2s ease-in-out;
+  opacity: 0;
+  color: transparent;
+  background-color: rgba(26, 188, 156, 0.9);
 }
 
 .portfolio-modal .portfolio-modal-title {
@@ -10329,9 +10337,8 @@ p.img-caption {
   justify-content: center;
   text-align: center;
   align-items: center;
-  
+
 }
 
 div.divider-custom.divider-small {
   margin: 0 0 0 0 !important;
-}
